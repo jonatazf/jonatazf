@@ -1,43 +1,67 @@
-# Olá, eu sou o Jonatas 👋
+<h1 align="center">Olá, eu sou o Jonatas 🚀<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer</h3>
 
-**Desenvolvedor Full-Stack** | Foco em Backend e automação de processos reais
+<p align="center">
+  <a href="mailto:jonatassoaresferreira11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jonatassoares1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-Estudante técnico em Desenvolvimento de Sistemas, buscando aplicar minha base prática em **PHP, JavaScript e MySQL** para construir sistemas eficientes que agregam valor real às empresas — enquanto sigo evoluindo tecnicamente a cada projeto.
 
----
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
 
-### 🎯 Objetivo
+  <em>
+Sou uma desenvolvedor Back-End e estudante do 1° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>SENAC Santo Amaro</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Desenvolvimento de Sistemas, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+  </em> 
+  <br>
+<div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+</div>
 
-Atuar como Desenvolvedor de Software, com foco em **Backend** ou **Full-Stack**, aplicando conhecimento prático no desenvolvimento de sistemas e automação de processos.
+<br>
+  
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+  </kbd>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+  </kbd>
+  <br>
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+</div>
 
----
+<br>
+<br>
 
-### 🎓 Formação
+- 📫 Contato: **jonatassoaresferreira11@gmail.com**
 
-- **SENAC Santo Amaro** — Análise e Desenvolvimento de Sistemas *(2026 – 2029)*
-- **ETEC Jardim Ângela** — Ensino Médio Técnico em Desenvolvimento de Sistemas *(2023 – 2025)*
-
----
-
-### 💼 Experiência
-
-**Desenvolvedor Full Stack — Projeto de Conclusão de Curso** · ETEC Jardim Ângela *(2025)*
-Desenvolvimento de uma aplicação web para informatização dos processos manuais da **Roxinho's Barber**, entregando um sistema de gestão funcional de ponta a ponta.
-
----
-
-### 🛠️ Tecnologias
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 📫 Contato
-
-- 📧 jonatassoaresferreira11@gmail.com
-- 📱 (11) 98492-8172
-- 💻 [github.com/jonatazf](https://github.com/jonatazf)
+<p align="center"> 
