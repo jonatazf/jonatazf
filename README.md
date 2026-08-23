@@ -17,7 +17,7 @@ Sou uma desenvolvedor Back-End e estudante do 1° semestre de <strong>Análise e
   </em> 
   <br>
 <div align= "center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>Tecnologias em aprendizado</i></b> 
+  <b><i>Tecnologias em aprendizado</i></b> 
 </div>
 
 <br>
@@ -27,6 +27,7 @@ Sou uma desenvolvedor Back-End e estudante do 1° semestre de <strong>Análise e
     <kbd>Back-end</kbd>
     <br>
     <br>
+     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/php/php-original.svg"/>
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   </kbd>
   <kbd>
@@ -56,7 +57,6 @@ Sou uma desenvolvedor Back-End e estudante do 1° semestre de <strong>Análise e
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
   </kbd>
   <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
 </div>
 
 <br>
