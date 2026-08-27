@@ -13,7 +13,7 @@
   <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
 
   <em>
-Sou uma desenvolvedor Fullstack e estudante do 1° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>SENAC Santo Amaro</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Desenvolvimento de Sistemas, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Sou uma desenvolvedor Fullstack e estudante do 1° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>SENAC Santo Amaro</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Desenvolvimento de Sistemas pela <strong>ETEC Jardim Ângela</strong>, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
   </em> 
   <br>
 <div align= "center">
