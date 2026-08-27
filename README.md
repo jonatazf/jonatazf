@@ -62,7 +62,8 @@ Sou uma desenvolvedor Fullstack e estudante do 1° semestre de <strong>Análise 
 <br>
 <br>
 
-[go](http://stackoverflow.com){:target="_blank"}
+[go] (https://jonatazf.dev/) {:target:"_blank" rel="noopener"}
+- 💼 Portfólio: 
 - 📫 Contato: **jonatassoaresferreira11@gmail.com**
 
 <p align="center"> 
