@@ -17,7 +17,7 @@ Sou um desenvolvedor Fullstack e estudante do 1° semestre de <strong>Análise e
   </em> 
   <br>
 <div align= "center">
-  <b><i>Tecnologias em aprendizadoo</i></b> 
+  <b><i>Tecnologias em aprendizado</i></b> 
 </div>
 
 <br>
