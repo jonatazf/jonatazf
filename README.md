@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Jonatas 🚀<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Fullstack Developer</h3>
+<h3 aliggn="center">Estudante de Análise e Desenvolvimento de Sistemas | Fullstack Developer</h3>
 
 <p align="center">
   <a href="mailto:jonatassoaresferreira11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
