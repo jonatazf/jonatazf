@@ -42,9 +42,9 @@ Sou um desenvolvedor Fullstack e estudante do 1° semestre de <strong>Análise e
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
     <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> 
   </kbd>
   <kbd>
     <kbd>Outros</kbd>
